@@ -1,6 +1,6 @@
 # Collection Game based on Holokit SDK in iOS
 ## Environment 
-* unity 2021.3.15  
+* Unity 2021.3.15  
 ## Installation  
 1. Install [HoloKit](https://holokit.io/) Unity SDK from the following git URL in Package Manager:
 ```
