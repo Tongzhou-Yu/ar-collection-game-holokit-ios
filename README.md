@@ -6,6 +6,9 @@ unity 2021.3.15
 ```
 https://github.com/holoi/holokit-unity-sdk.git
 ```
-3. edit unity project/Packages/manifest.json add ["com.unity.xr.arkit": "5.0.6",]  
-4. [optional] buy & install Easy Save SDK
-5. input CollectionGame.unitypackage
+2. edit unity project/Packages/manifest.json add
+```
+"com.unity.xr.arkit": "5.0.6",
+```
+3. [optional] buy & install Easy Save SDK
+4. input CollectionGame.unitypackage
