@@ -1,4 +1,4 @@
-# Collection Game based on Holokit SDK in iOS
+# AR Collection Game based on Holokit SDK in iOS
 ## Environment 
 * Unity 2021.3.15  
 ## Installation  
