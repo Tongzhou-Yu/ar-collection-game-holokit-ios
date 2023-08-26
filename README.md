@@ -6,7 +6,7 @@
 ```
 https://github.com/holoi/holokit-unity-sdk.git
 ```
-2. Edit unity project/Packages/manifest.json and add
+2. Edit unity project/Packages/manifest.json & add
 ```
 "com.unity.xr.arkit": "5.0.6",
 ```
