@@ -1,4 +1,4 @@
-# collection-game-holokit
+# Collection Game based on Holokit SDK in iOS
 ## environment 
 * unity 2021.3.15  
 ## install  
