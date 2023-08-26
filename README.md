@@ -12,3 +12,5 @@ https://github.com/holoi/holokit-unity-sdk.git
 ```
 3. `optional` buy & install Easy Save SDK
 4. From the [latest release](https://github.com/Tongzhou-Yu/collection-game-holokit/releases/tag/holokit), you can download the `CollectionGame.unitypackage` file & import into Unity project
+## Acknowledgements  
+* BorboletaSKTFAB.fbx is generated from [BorboletaSKTFAB.blend](https://sketchfab.com/3d-models/borboleta-azul-butterfly-ab9192b6bc8f49e3baed63e984c7073a) created by Lancaster Modelagem 3D.
