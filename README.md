@@ -11,4 +11,4 @@ https://github.com/holoi/holokit-unity-sdk.git
 "com.unity.xr.arkit": "5.0.6",
 ```
 3. `optional` buy & install Easy Save SDK
-4. From the [latest release](https://github.com/vrm-c/UniVRM/releases/latest), you can download the `CollectionGame.unitypackage` file & import package into Unity project
+4. From the [latest release](https://github.com/Tongzhou-Yu/collection-game-holokit/releases/tag/holokit), you can download the `CollectionGame.unitypackage` file & import package into Unity project
