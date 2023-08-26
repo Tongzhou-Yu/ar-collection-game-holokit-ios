@@ -10,5 +10,5 @@ https://github.com/holoi/holokit-unity-sdk.git
 ```
 "com.unity.xr.arkit": "5.0.6",
 ```
-3. [optional] buy & install Easy Save SDK
+3. `optional` buy & install Easy Save SDK
 4. input CollectionGame.unitypackage
