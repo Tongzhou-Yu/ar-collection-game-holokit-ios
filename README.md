@@ -1,6 +1,6 @@
 # collection-game-holokit
 ## environment 
-unity 2021.3.15  
+* unity 2021.3.15  
 ## install  
 1. install HoloKit Unity SDK from the following git URL in Package Manager:
 ```
