@@ -1,4 +1,5 @@
-# AR Collection Game based on Holokit SDK in iOS
+# AR Collection Game based on Holokit SDK in iOS  
+![](https://github.com/Tongzhou-Yu/ar-collection-game-holokit-ios/blob/main/holokit.gif)  
 ## Environment 
 * Unity 2021.3.15  
 ## Installation  
